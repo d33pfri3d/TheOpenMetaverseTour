@@ -1,7 +1,12 @@
 # talks-2017
 
-The Open MetaVerse
+The Open MetaVerse Tour!
 ---
+### Upcoming
+[JAN]
+[FEB] FEL - London
+[MAR]
+
 ### Given
 
 FullStack Bytes - London
@@ -26,3 +31,7 @@ Peers Conf(awaiting reply)
 Fluent 2017 ( awaiting reply )
 
 MuseumNext ( awaiting reply )
+
+### Rejected
+
+Renderconf
