@@ -4,12 +4,16 @@ The Open MetaVerse Tour!
 ---
 ### Upcoming
 [JAN]
+
 [FEB] FEL - London
+
 [MAR]
 
 ### Given
 
 FullStack Bytes - London
+
+Reactivate London
 
 
 ### Submitted
