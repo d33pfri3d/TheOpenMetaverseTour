@@ -22,19 +22,19 @@ Reactivate London
 
 ### Submitted
 
-JSDay (awaiting reply)
+AWE
 
-JSConf EU (awaiting reply)
+JSDay
 
-FEDC (awaiting reply)
+JSConf EU
 
-Rolling.Scopes (awaiting reply)
+FEDC
 
-Peers Conf(awaiting reply)
+Rolling.Scopes
 
-Fluent 2017 ( awaiting reply )
+Peers Conf
 
-MuseumNext ( awaiting reply )
+Fluent 2017
 
 ### Rejected
 
