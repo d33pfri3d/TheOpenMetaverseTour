@@ -5,9 +5,13 @@ The Open MetaVerse Tour!
 ### Upcoming
 [JAN]
 
-[FEB] FEL - London
+[FEB] 
 
-[MAR] Forward.js ( workshop )
+FEL - London
+
+[MAR] 
+
+Forward.js ( workshop )
 
 ### Given
 
