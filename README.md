@@ -20,11 +20,7 @@ Reactivate London
 
 JSDay (awaiting reply)
 
-Render Conf (awaiting reply)
-
 JSConf EU (awaiting reply)
-
-NZ.js (awaiting reply)
 
 FEDC (awaiting reply)
 
@@ -39,3 +35,5 @@ MuseumNext ( awaiting reply )
 ### Rejected
 
 Renderconf
+Museumnext
+Nz.js
