@@ -7,7 +7,7 @@ The Open MetaVerse Tour!
 
 [FEB] FEL - London
 
-[MAR]
+[MAR] Forward.js ( workshop )
 
 ### Given
 
@@ -35,5 +35,7 @@ MuseumNext ( awaiting reply )
 ### Rejected
 
 Renderconf
+
 Museumnext
+
 Nz.js
