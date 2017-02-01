@@ -22,6 +22,16 @@ Reactivate London
 
 ### Submitted
 
+FEC17
+
+Web Summer Camp ( workshop )
+
+Q-COn
+
+DevIt
+
+Pixel Pioneers
+
 PeersConf
 
 Signal
